@@ -1,6 +1,6 @@
 /**
  * Entrypoint of the Remote Component.
  */
-import Chat from "./Chat";
+import App from "./App";
 
-export default Chat;
+export default App;
